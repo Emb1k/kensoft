@@ -1,4 +1,4 @@
-# kensoft
+# KENSoft Project 1
 
 ** 1 программа:**
 
